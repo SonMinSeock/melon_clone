@@ -1,4 +1,6 @@
-# Melon Contest Blueprint
+# Melone Clone
+
+## Melon Contest Blueprint
 
 ## How to run?
 
